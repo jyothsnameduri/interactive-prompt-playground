@@ -2,6 +2,10 @@
 
 A Python Tkinter desktop application that allows users to experiment with different AI prompt configurations to generate product descriptions. This tool helps understand how various OpenAI API parameters affect the output quality, style, and content.
 
+![Main Application Interface](screenshots/main_interface.png)
+
+*Screenshot: The main interface of the Interactive Prompt Playground*
+
 ## Features
 
 - Create prompts for generating product descriptions
@@ -48,6 +52,10 @@ A Python Tkinter desktop application that allows users to experiment with differ
 4. Click "Generate" for a single output or "Batch Generate" to test multiple parameter combinations
 5. Review the results in the table
 6. Double-click on any result to see the full text
+
+   ![Full Output View](screenshots/full_output.png)
+   *Screenshot: Detailed view of a selected output*
+
 7. Write your reflection on what changed and why
 8. Save your reflection for future reference
 
